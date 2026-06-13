@@ -186,3 +186,23 @@ footer{
     color:#ff4d00;
     margin-top:20px;
 }
+
+.rank-image{
+    width:180px;
+    height:auto;
+    display:block;
+    margin:0 auto 15px;
+    transition:0.3s;
+}
+
+.card:hover .rank-image{
+    transform:scale(1.05);
+}
+
+.card{
+    text-align:center;
+}
+
+.card p{
+    text-align:left;
+}
