@@ -328,12 +328,13 @@ line-height: 2;
 }
 
 .inventory-container {
-text-align: center;
-margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
 }
-
 .kit-items {
-width: 100%;
-max-width: 950px;
-border-radius: 10px;
+    width: 950px;
+    max-width: 95%;
+    display: block;
+    border-radius: 10px;
 }
