@@ -148,3 +148,41 @@ footer{
     padding:30px;
     border-top:1px solid #222;
 }
+
+.store-page{
+    min-height:100vh;
+    padding:80px 10%;
+    text-align:center;
+}
+
+.store-page h1{
+    font-size:4rem;
+    color:#ff4d00;
+    margin-bottom:20px;
+}
+
+.store-subtitle{
+    margin-bottom:50px;
+    font-size:1.2rem;
+}
+
+.buy-btn{
+    width:100%;
+    padding:12px;
+    margin-top:20px;
+    border:none;
+    border-radius:8px;
+    background:#ff4d00;
+    color:white;
+    font-weight:bold;
+    cursor:pointer;
+}
+
+.buy-btn:hover{
+    opacity:.9;
+}
+
+.card h2{
+    color:#ff4d00;
+    margin-top:20px;
+}
