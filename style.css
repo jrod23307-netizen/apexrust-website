@@ -252,3 +252,31 @@ footer{
 .card p{
     text-align:left;
 }
+
+.kit-header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 60px;
+    margin-bottom: 40px;
+}
+
+.rank-detail {
+    width: 300px;
+    height: auto;
+}
+
+.kit-info {
+    max-width: 500px;
+    text-align: left;
+    margin-top: 40px;
+}
+
+.perk-list {
+    padding-left: 20px;
+    line-height: 1.8;
+}
+
+.perk-list li {
+    margin-bottom: 8px;
+}
