@@ -280,3 +280,60 @@ footer{
 .perk-list li {
     margin-bottom: 8px;
 }
+
+.kit-page {
+max-width: 1400px;
+margin: 0 auto;
+padding: 60px 40px;
+}
+
+.kit-header {
+display: flex;
+justify-content: center;
+align-items: flex-start;
+gap: 80px;
+margin-bottom: 40px;
+}
+
+.kit-left {
+flex-shrink: 0;
+}
+
+.rank-detail {
+width: 320px;
+height: auto;
+}
+
+.kit-info {
+max-width: 500px;
+text-align: left;
+margin-top: 20px;
+}
+
+.kit-info h1 {
+color: #ff5a00;
+font-size: 42px;
+margin-bottom: 10px;
+}
+
+.kit-info h2 {
+color: #ff5a00;
+font-size: 36px;
+margin-bottom: 25px;
+}
+
+.perk-list {
+padding-left: 25px;
+line-height: 2;
+}
+
+.inventory-container {
+text-align: center;
+margin-top: 50px;
+}
+
+.kit-items {
+width: 100%;
+max-width: 950px;
+border-radius: 10px;
+}
