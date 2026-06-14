@@ -333,8 +333,8 @@ line-height: 2;
     margin-top: 50px;
 }
 .kit-items {
-    width: 950px;
-    max-width: 95%;
+    width: auto;
     display: block;
-    border-radius: 10px;
+    margin: 0 auto;
+    border-radius: 12px;
 }
